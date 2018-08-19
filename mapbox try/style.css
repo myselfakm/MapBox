@@ -1,0 +1,10 @@
+#map {
+  height: 500px;
+}
+
+#icon {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  color: black;
+}
